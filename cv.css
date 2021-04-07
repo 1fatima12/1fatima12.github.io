@@ -1,0 +1,49 @@
+h1{
+color: #CD6155;
+background-color: #FDEDEC;
+font-family: "Monaco", "Courier New", monospace;
+}
+div {
+
+  color:black;
+  background-color: #FDEDEC;
+}
+div table{
+color:black;
+  background-color: #FDEDEC;
+
+}
+h2{
+  color:#D98880 ;
+  background-color: #FDEDEC;
+font-family: "Monaco", "Courier New", monospace;
+
+}
+div p{
+font-size: large;
+font-family: Courier New;
+}
+div li {
+
+  font-size: large;
+  font-family: Courier New;
+
+}
+div address {
+
+  font-size: large;
+  font-family: Courier New;
+
+}
+div form {
+
+  font-size: large;
+  font-family: Courier New;
+
+}
+div table {
+
+  font-size: large;
+  font-family: Courier New;
+
+}
