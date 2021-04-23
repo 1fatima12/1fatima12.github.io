@@ -1,0 +1,32 @@
+#g {
+ background-color:#DA9693;
+
+ width: 100px;
+  height: 100px;
+  position:  absolute;
+  border: 2px solid blue;
+  display: block;
+}
+#e{
+  background-color: #C4BE95;
+  width: 100px;
+   height: 100px;
+   position:  absolute;
+   margin-left: 104px;
+   border: 2px solid blue;
+   display: block;
+
+   margin-top: 104px
+}
+.c{
+
+  background-color: #528CD8 ;
+  width: 100px;
+   height: 100px;
+   position: absolute;
+   margin-left: 208px;
+   border: 2px solid blue;
+   display: block;
+   margin-top: 208px
+
+}
